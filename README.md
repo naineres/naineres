@@ -1,3 +1,3 @@
-# GIT linux AWS
+# Git Hub of a Financial engineering student with a drive for Blockchain and Cryptocurrency
 
-TD of Python GIT/ Linux and AWS
+Mix of my projects during my 3 years of engineering school with financial market projects and personal projects 
